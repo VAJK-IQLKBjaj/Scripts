@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bukito20/Public-scripts/main/star%20wars%20obfu.lua'))()
